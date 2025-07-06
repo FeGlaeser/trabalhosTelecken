@@ -1,0 +1,31 @@
+.api-card {
+    background: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+  }
+  
+  #preview {
+    padding: 16px;
+    background: #fff;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  textarea#codigo-html {
+    width: 100%;
+    font-family: monospace;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+  
+  .erro {
+    color: #a00;
+    font-weight: bold;
+  }
+  
